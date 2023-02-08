@@ -1,24 +1,11 @@
-# README
+## Basic Rails + ERB blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+-Clone this repo
 
-Things you may want to cover:
+-Open locally
 
-* Ruby version
+-Run server
 
-* System dependencies
+-Try out the different functions
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-Use 'dhh' as username and 'secret' as password
